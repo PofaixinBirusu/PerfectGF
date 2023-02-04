@@ -1,0 +1,9 @@
+OpenGF_Exp
+        | train
+                | S1_1.laz
+                | S1_2.laz
+                | ...
+        | val
+                | S1_v.laz
+                | S2_v.laz
+                | ...
